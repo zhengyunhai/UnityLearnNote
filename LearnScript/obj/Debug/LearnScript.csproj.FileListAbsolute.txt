@@ -1,0 +1,8 @@
+E:\GitSource\UnityLearnNote\LearnScript\bin\Debug\LearnScript.exe.config
+E:\GitSource\UnityLearnNote\LearnScript\bin\Debug\LearnScript.exe
+E:\GitSource\UnityLearnNote\LearnScript\bin\Debug\LearnScript.pdb
+E:\GitSource\UnityLearnNote\LearnScript\obj\Debug\LearnScript.csproj.AssemblyReference.cache
+E:\GitSource\UnityLearnNote\LearnScript\obj\Debug\LearnScript.csproj.SuggestedBindingRedirects.cache
+E:\GitSource\UnityLearnNote\LearnScript\obj\Debug\LearnScript.csproj.CoreCompileInputs.cache
+E:\GitSource\UnityLearnNote\LearnScript\obj\Debug\LearnScript.exe
+E:\GitSource\UnityLearnNote\LearnScript\obj\Debug\LearnScript.pdb
